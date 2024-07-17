@@ -1,1 +1,1 @@
-Here are the projects that I have worked on that can be shared and shown.
+Thank you for taking the time to visit my portfolio. I am Matt Garlock a data scientist.Here are the projects that I have worked on that can be shared and shown. From this you can see my use of programming tools such as Python, R and Hadoop. I am also knowledgeable in data visualization tools like Tableau and PowerBI. I look forward to working with you in future projects.
