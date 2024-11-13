@@ -1,1 +1,13 @@
-Thank you for taking the time to visit my portfolio. I am Matt Garlock a data scientist.Here are the projects that I have worked on that can be shared and shown. From this you can see my use of programming tools such as Python, R and Hadoop. I am also knowledgeable in data visualization tools like Tableau and PowerBI. I look forward to working with you in future projects.
+Matt Garlock - Data Scientist Portfolio
+
+Welcome to my portfolio! I’m Matt Garlock, a data scientist with a passion for uncovering insights through data and solving complex business challenges. Here, you’ll find a selection of projects demonstrating my skills in data analysis, predictive modeling, and visualization.
+
+My expertise spans:
+
+Programming: Proficient in Python, R, and Hadoop, with a strong foundation in data manipulation, machine learning, and statistical analysis.
+
+Data Visualization: Skilled in creating compelling visual narratives using Tableau and Power BI to translate data into actionable insights.
+
+Each project here reflects my commitment to rigorous analysis, ethical considerations, and clear, impactful storytelling. I look forward to the opportunity to collaborate on future data-driven projects!
+
+
