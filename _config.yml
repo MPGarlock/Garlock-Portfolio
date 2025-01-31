@@ -8,4 +8,14 @@ description: [Data Scientist]
 
 # Button set ups
 
-button class: [About] 
+buttons:
+  - text: "Projects"
+    url: "https://github.com/MPGarlock/Garlock-Portfolio/tree/main/Projects"
+    class: "btn btn-primary"
+  - text: "About"
+    url: "https://github.com/MPGarlock/Garlock-Portfolio/tree/main/About"
+    class: "btn btn-secondary"
+  - text: "Contact"
+    url: "https://github.com/MPGarlock/Garlock-Portfolio/tree/main/Contact"
+    class: "btn btn-success"
+
