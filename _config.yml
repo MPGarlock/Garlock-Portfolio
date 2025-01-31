@@ -8,4 +8,4 @@ description: [Data Scientist]
 
 # Button set ups
 
-button: [About]
+button class: [About] 
