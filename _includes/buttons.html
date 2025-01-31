@@ -1,0 +1,8 @@
+<!-- _includes/buttons.html -->
+{% if site.buttons %}
+  <div class="buttons">
+    {% for button in site.buttons %}
+      <a href="{{ button.url }}" class="btn">{{ button.text }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
