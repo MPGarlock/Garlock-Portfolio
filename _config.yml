@@ -2,5 +2,10 @@ theme: jekyll-theme-cayman
 
 # Setup
 
-title: [Matt Garlock Portfolio]
+title: [Matt Garlock ]
+description: [Data Scientist]
+baseurl: ""
+paginate: 1
+values:
+       layout: single
 
