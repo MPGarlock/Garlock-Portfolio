@@ -49,5 +49,4 @@ Check out my full portfolio for more **data science & analytics** projects! 🚀
 
 ---
 
-This README highlights your **data preparation expertise**, methodologies, and projects while making it easy for potential employers or collaborators to connect with you. Let me know if you'd like to refine any details! 😊
 
